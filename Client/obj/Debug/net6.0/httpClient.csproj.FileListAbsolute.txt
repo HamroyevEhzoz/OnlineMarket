@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\httpClient\bin\Debug\net6.0\httpClient.exe
+C:\Users\User\source\repos\httpClient\bin\Debug\net6.0\httpClient.deps.json
+C:\Users\User\source\repos\httpClient\bin\Debug\net6.0\httpClient.runtimeconfig.json
+C:\Users\User\source\repos\httpClient\bin\Debug\net6.0\httpClient.dll
+C:\Users\User\source\repos\httpClient\bin\Debug\net6.0\httpClient.pdb
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.AssemblyInfo.cs
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.dll
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\refint\httpClient.dll
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.pdb
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.genruntimeconfig.cache
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\ref\httpClient.dll
+C:\Users\User\source\repos\httpClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\httpClient\obj\Debug\net6.0\httpClient.csproj.CopyComplete
